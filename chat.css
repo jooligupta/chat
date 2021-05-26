@@ -1,0 +1,21 @@
+*{
+    margin:0;
+    padding:0;
+}
+.root{
+    width:22%;
+    height:70vh;
+    float:right;
+    background-color:#f1f2f6;
+    border:4px soild black;
+}
+.box{
+    width:60%;
+    height:20%;
+    border-radius: 20px;
+    background:#70a1ff;
+}
+.btn{
+    margin-top: 45%;
+}
+
